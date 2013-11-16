@@ -12,6 +12,6 @@ Usage:
 
 > cd project folder
 
-> mvn  exec:java -Dexec.args=<wsdl url>
+> mvn  exec:java -Dexec.args=&lt;<i>wsdl url</i>&gt;
 
 </pre>
